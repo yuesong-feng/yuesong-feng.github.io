@@ -27,6 +27,6 @@ order: 4
 
 💻 Similar website:
 
-[数据库内核月报](http://mysql.taobao.org/monthly/)
+数据库内核月报: http://mysql.taobao.org/monthly/
 
 [墨天轮](https://www.modb.pro)
