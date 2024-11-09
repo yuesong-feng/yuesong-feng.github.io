@@ -1,0 +1,8 @@
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: 主页
+  categories: 分类
+  tags: 标签
+  treehole: 树洞
+  archives: 归档
+  about: 关于
