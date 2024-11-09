@@ -24,3 +24,9 @@ order: 4
 👯 Bachelor of Computer Science and Technology, Sichuan University, 2017 - 2021
 
 ⚡ Fun fact: Enjoying playing the piano, classical guitar, alto recorder, etc.
+
+💻 Similar website:
+
+[数据库内核月报](http://mysql.taobao.org/monthly/)
+
+[墨天轮](https://www.modb.pro)

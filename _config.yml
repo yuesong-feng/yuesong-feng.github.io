@@ -14,12 +14,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 冯岳松的博客 # the main title
+title: 数据库杂谈 # the main title
 
-tagline: 数据库内核笔记 # it will display as the subtitle
+tagline: 冯岳松的博客 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  数据库内核笔记
+  数据库杂谈
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -223,3 +223,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  default_front_matter:
+    posts:
+      author: yuesong-feng
+      category: [数据库内核, MySQL]
+      tags: [mysql]
