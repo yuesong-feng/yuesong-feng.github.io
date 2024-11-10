@@ -1,6 +1,6 @@
 ---
 layout: post
-title: online创建索引
+title: MySQL online创建索引
 date: 2024-11-09 22:46 +0800
 author: yuesong-feng
 categories: [数据库内核, MySQL]

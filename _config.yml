@@ -228,5 +228,5 @@ jekyll_compose:
   default_front_matter:
     posts:
       author: yuesong-feng
-      category: [数据库内核, MySQL]
-      tags: [mysql]
+      category: [数据库内核, PostgreSQL]
+      tags: [postgresql]
