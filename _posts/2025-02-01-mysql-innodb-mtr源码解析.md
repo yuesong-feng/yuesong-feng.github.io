@@ -11,7 +11,7 @@ tags:
 ---
 # Mini Transaction
 
-MySQL InnoDB中，mtr是一个非常重要的模块，主要控制redo日志和B树页锁。
+MySQL InnoDB中，mtr是一个非常重要的模块，主要控制redo日志和数据页锁。
 
 ## redo日志
 
