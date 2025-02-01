@@ -1,0 +1,5 @@
+bundle exec jekyll s
+
+bundle exec jekyll page ""
+
+bundle exec jekyll compose ""
