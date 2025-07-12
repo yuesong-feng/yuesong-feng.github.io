@@ -7,7 +7,7 @@ order: 4
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 
-👋 Hi there, I'm 冯岳松, a database kernel developer
+👋 Hi there, I'm Husong, a database kernel developer
 
 🎓 Working in XXX as a system developer since 2023
 
